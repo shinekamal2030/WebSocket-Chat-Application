@@ -1,0 +1,14 @@
+{
+  "name": "wsserver",
+  "version": "1.0.0",
+  "description": "This is my chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kamal",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.17.1"
+  }
+}
